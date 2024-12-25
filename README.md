@@ -24,7 +24,7 @@ Copyright (C) 2024 Youp Verkooijen. All rights reserved.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/youpv/top2000-monitor.git
+git clone https://github.com/youpv/Top2000-Message-Monitor
 cd top2000-monitor
 ```
 
